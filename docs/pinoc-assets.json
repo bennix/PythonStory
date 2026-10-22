@@ -1,0 +1,298 @@
+{
+  "tasks": [
+    {
+      "taskId": "ea7b9cfc-e033-4ca1-bff9-f74426ff15c3",
+      "kind": "motion"
+    },
+    {
+      "taskId": "8dbd0622-af6a-4ff8-a9d2-a6bc681639af",
+      "kind": "motion"
+    },
+    {
+      "taskId": "d97bf694-02d8-4ad9-a0e5-d65a51d96fc6",
+      "kind": "motion"
+    },
+    {
+      "taskId": "4cc242f4-d851-40f6-a347-878a7d784eeb",
+      "kind": "character"
+    },
+    {
+      "taskId": "af7643fd-a658-43b7-b62d-fb97d46f8e10",
+      "kind": "environment"
+    }
+  ],
+  "results": {
+    "waitedSeconds": 0,
+    "allSettled": true,
+    "tasks": [
+      {
+        "kind": "motion",
+        "taskId": "ea7b9cfc-e033-4ca1-bff9-f74426ff15c3",
+        "state": "ready",
+        "status": "completed",
+        "prompt": "From standing, gently sit down onto a low stool, hold a rice bowl in the left hand and chopsticks in the right, lift food toward the mouth twice, then settle into relaxed seated idle. Feet remain planted after sitting, calm natural timing.",
+        "assets": [
+          {
+            "assetPublicId": "d9c09b62-01ce-43fa-b505-f1595a743e00",
+            "displayName": "Sit Eat Idle (1)",
+            "formats": [
+              "splat-skeleton-glb",
+              "splat-skeleton-fbx",
+              "mixamo-glb",
+              "mixamo-fbx"
+            ]
+          },
+          {
+            "assetPublicId": "32c66483-2f1d-469e-b71e-8f56f2060401",
+            "displayName": "Sit Eat Idle (2)",
+            "formats": [
+              "splat-skeleton-glb",
+              "splat-skeleton-fbx",
+              "mixamo-glb",
+              "mixamo-fbx"
+            ]
+          },
+          {
+            "assetPublicId": "7580f21c-9a1b-4ff3-86c2-ab2e06ed4d83",
+            "displayName": "Sit Eat Idle (3)",
+            "formats": [
+              "splat-skeleton-glb",
+              "splat-skeleton-fbx",
+              "mixamo-glb",
+              "mixamo-fbx"
+            ]
+          },
+          {
+            "assetPublicId": "139aafd5-3743-4bdb-bf67-b6913fca444b",
+            "displayName": "Sit Eat Idle (4)",
+            "formats": [
+              "splat-skeleton-glb",
+              "splat-skeleton-fbx",
+              "mixamo-glb",
+              "mixamo-fbx"
+            ]
+          }
+        ]
+      },
+      {
+        "kind": "motion",
+        "taskId": "8dbd0622-af6a-4ff8-a9d2-a6bc681639af",
+        "state": "ready",
+        "status": "completed",
+        "prompt": "Standing upright, perform a traditional Chinese gongshou greeting: bring both hands together in front of the chest with one fist covered by the opposite palm, incline the torso gently forward, then straighten and lower hands to neutral. Feet remain in place.",
+        "assets": [
+          {
+            "assetPublicId": "dc2abcb7-515d-4d2f-b42e-9567ac43f6e9",
+            "displayName": "Gongshou Greeting (1)",
+            "formats": [
+              "splat-skeleton-glb",
+              "splat-skeleton-fbx",
+              "mixamo-glb",
+              "mixamo-fbx"
+            ]
+          },
+          {
+            "assetPublicId": "6fd35cff-a3f0-4f5c-9a1c-209220857d9c",
+            "displayName": "Gongshou Greeting (2)",
+            "formats": [
+              "splat-skeleton-glb",
+              "splat-skeleton-fbx",
+              "mixamo-glb",
+              "mixamo-fbx"
+            ]
+          },
+          {
+            "assetPublicId": "616c9c08-e8dc-4add-bc0c-a122d2b4c349",
+            "displayName": "Gongshou Greeting (3)",
+            "formats": [
+              "splat-skeleton-glb",
+              "splat-skeleton-fbx",
+              "mixamo-glb",
+              "mixamo-fbx"
+            ]
+          },
+          {
+            "assetPublicId": "deba00bb-deb1-4bc1-8570-5620d370c0ee",
+            "displayName": "Gongshou Greeting (4)",
+            "formats": [
+              "splat-skeleton-glb",
+              "splat-skeleton-fbx",
+              "mixamo-glb",
+              "mixamo-fbx"
+            ]
+          }
+        ]
+      },
+      {
+        "kind": "motion",
+        "taskId": "d97bf694-02d8-4ad9-a0e5-d65a51d96fc6",
+        "state": "ready",
+        "status": "completed",
+        "prompt": "A child's playful movement: three small happy two-foot hops in place, bend knees naturally before takeoff and on landing, arms swing gently for balance, then return to quiet standing. Light springy movement, no flips, no travel.",
+        "assets": [
+          {
+            "assetPublicId": "f53b8c50-e5c6-4aed-91b3-dce49b448c7d",
+            "displayName": "A child's playful movement: three small happy two-foot hops in place, bend knees naturally before takeoff and on landing, arms swing gently for balance, then return to quiet standing. Light springy movement, no flips, no travel. (1)",
+            "formats": [
+              "splat-skeleton-glb",
+              "splat-skeleton-fbx",
+              "mixamo-glb",
+              "mixamo-fbx"
+            ]
+          },
+          {
+            "assetPublicId": "87a6ca23-03e8-4db4-a5c1-c7f9765e525c",
+            "displayName": "A child's playful movement: three small happy two-foot hops in place, bend knees naturally before takeoff and on landing, arms swing gently for balance, then return to quiet standing. Light springy movement, no flips, no travel. (2)",
+            "formats": [
+              "splat-skeleton-glb",
+              "splat-skeleton-fbx",
+              "mixamo-glb",
+              "mixamo-fbx"
+            ]
+          },
+          {
+            "assetPublicId": "527d8092-9708-489c-ba04-74e670e39b7a",
+            "displayName": "A child's playful movement: three small happy two-foot hops in place, bend knees naturally before takeoff and on landing, arms swing gently for balance, then return to quiet standing. Light springy movement, no flips, no travel. (3)",
+            "formats": [
+              "splat-skeleton-glb",
+              "splat-skeleton-fbx",
+              "mixamo-glb",
+              "mixamo-fbx"
+            ]
+          },
+          {
+            "assetPublicId": "1b75a09c-b081-4fc5-af12-c6f5545ac6c5",
+            "displayName": "A child's playful movement: three small happy two-foot hops in place, bend knees naturally before takeoff and on landing, arms swing gently for balance, then return to quiet standing. Light springy movement, no flips, no travel. (4)",
+            "formats": [
+              "splat-skeleton-glb",
+              "splat-skeleton-fbx",
+              "mixamo-glb",
+              "mixamo-fbx"
+            ]
+          }
+        ]
+      },
+      {
+        "kind": "character",
+        "taskId": "4cc242f4-d851-40f6-a347-878a7d784eeb",
+        "state": "ready",
+        "status": "succeeded",
+        "assets": [
+          {
+            "assetPublicId": "59435ac3-15b5-4698-87d0-b95f7566bd1c",
+            "displayName": "Straw Hat Wanderer"
+          }
+        ]
+      },
+      {
+        "kind": "environment",
+        "taskId": "af7643fd-a658-43b7-b62d-fb97d46f8e10",
+        "state": "ready",
+        "status": "succeeded",
+        "assets": [
+          {
+            "assetPublicId": "5d397152-7e98-57b6-8f52-93346d43ff2d",
+            "displayName": "桃源寻码·桃花山谷 R01"
+          }
+        ],
+        "files": [
+          {
+            "format": "splat-raw"
+          }
+        ],
+        "message": "The scene is ready. The file under files is the RAW reconstruction. A raw reconstruction is in ARBITRARY UNITS and nothing records how big one of its units is: measure the file. The origin is the capture point and the floor is about 1.5 m below it, so march from the origin DOWNWARDS until you hit the ground, and 1.5 divided by that distance is the file's metres per unit. DOWN IS -y IN THIS FILE - march the other way and you measure the sky and call it a floor."
+      }
+    ]
+  },
+  "character": {
+    "assetPublicId": "59435ac3-15b5-4698-87d0-b95f7566bd1c",
+    "kind": "character",
+    "displayName": "Straw Hat Wanderer",
+    "visibility": "private",
+    "splats": 131072,
+    "formats": [
+      {
+        "format": "high",
+        "description": "VIGGCHAR v1 at 48,000 gaussians - the tier the PINOC viewer loads. The default: prefer it unless you have a reason.",
+        "splats": 48000,
+        "bytes": 1303780
+      },
+      {
+        "format": "balanced",
+        "description": "VIGGCHAR v1 at 32,000 gaussians. About a third off `high` for a difference that is hard to see at normal distance.",
+        "splats": 32000,
+        "bytes": 871776
+      },
+      {
+        "format": "performance",
+        "description": "VIGGCHAR v1 at 16,000 gaussians. For crowds, mobile and anything drawing several characters at once - splat cost is dominated by fill rate, so this is the one that buys frames.",
+        "splats": 16000,
+        "bytes": 439772
+      },
+      {
+        "format": "full",
+        "description": "VIGGCHAR v1 at the full 131,072 gaussians, unpruned and unmerged. Archival: roughly three times the bytes of `high` for no visible gain on screen.",
+        "splats": 131072,
+        "bytes": 3546796
+      }
+    ]
+  },
+  "environment": {
+    "assetPublicId": "5d397152-7e98-57b6-8f52-93346d43ff2d",
+    "kind": "scene",
+    "displayName": "桃源寻码·桃花山谷 R01",
+    "visibility": "",
+    "prompt": "Bright poetic Chinese pastoral peach blossom valley, airy storybook sunshine, jade mountains surrounding a distant white-walled village with golden straw roofs and rice fields. A winding clear turquoise creek and small dirt path lead from an open accessible foreground meadow through peach trees toward a warm luminous mountain opening and distant village. Soft azure sky, warm ivory light, peach-pink accents, inviting calm atmosphere. Leave a broad clear near-ground area for a separate playable character, creek, path and animated plants. No people, no boats with people, no text, no UI. Match the reference palette and landforms.",
+    "splatFormat": "spz",
+    "downAxis": "-y",
+    "formats": [
+      {
+        "format": "splat-raw",
+        "description": "The whole place as one Gaussian splat: the RAW reconstruction, in the provider's own frame. A raw reconstruction is in ARBITRARY UNITS and nothing records how big one of its units is: measure the file. The origin is the capture point and the floor is about 1.5 m below it, so march from the origin DOWNWARDS until you hit the ground, and 1.5 divided by that distance is the file's metres per unit. WHICH WAY DOWN IS DEPENDS ON WHEN THE SCENE WAS BUILT: -y in the provider's current SPZ reconstructions and +y in the older .ply ones, and marching the wrong way measures the sky and calls it a floor. Each scene reports its own answer as downAxis. To read the era off a file directly: if its first four bytes are \"NGSP\" and the little-endian uint32 at offset 4 is 4 or more, it is the current SPZ and +Y is UP, so down is -y; anything else - a .ply - is the older Y-down frame, so down is +y."
+      }
+    ]
+  },
+  "library": {
+    "requested": 4,
+    "taken": 4,
+    "failed": 0,
+    "creditsCharged": 0,
+    "format": "441-bone MetaHuman armature GLB (skeleton animation, no mesh)",
+    "motions": [
+      {
+        "requested": "32d71c7f-e88a-4d1f-9c0c-1fde2da5f060",
+        "assetPublicId": "32d71c7f-e88a-4d1f-9c0c-1fde2da5f060",
+        "displayName": "Walking",
+        "keywords": [
+          "walking"
+        ]
+      },
+      {
+        "requested": "32c1d7ba-29d6-466c-a2bc-56ff17ca4d1a",
+        "assetPublicId": "32c1d7ba-29d6-466c-a2bc-56ff17ca4d1a",
+        "displayName": "Running",
+        "keywords": [
+          "running"
+        ]
+      },
+      {
+        "requested": "fcd078a0-2ea4-4be6-a395-9946b57f865d",
+        "assetPublicId": "fcd078a0-2ea4-4be6-a395-9946b57f865d",
+        "displayName": "Wave Hello",
+        "keywords": [
+          "hello",
+          "wave"
+        ]
+      },
+      {
+        "requested": "1fc82778-5032-41c5-aa3b-81d7c9571006",
+        "assetPublicId": "1fc82778-5032-41c5-aa3b-81d7c9571006",
+        "displayName": "Nod Yes",
+        "keywords": [
+          "nod",
+          "yes"
+        ]
+      }
+    ]
+  }
+}
